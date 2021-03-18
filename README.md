@@ -1,7 +1,7 @@
 - 👋 Hi, I’m James Leonard
-- 👀 I’m interested in TensorFlow.js
+- 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning TensorFlow.js
-- 💞️ I’m looking to collaborate on Artificial intelligence
+- 💞️ I’m looking to collaborate on Developing ML models in JavaScript
 - 📫 How to reach me is though my link @ iamjamesleonard.com
 
 <!---
